@@ -1,4 +1,4 @@
-### This site is now mostly an archive. New projects will be at (https://tildegit.org/MarkEEaton)[https://tildegit.org/MarkEEaton]
+### This site is now mostly an archive. New projects will be at [https://tildegit.org/MarkEEaton](https://tildegit.org/MarkEEaton)
 
 Hi, I'm Mark. I'm a librarian. I build tools to support libraries and their communities. I'm passionate about code education for everyone, self-directed learning, and the value of tinkering with our technologies. 
 
