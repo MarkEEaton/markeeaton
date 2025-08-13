@@ -1,4 +1,4 @@
-### This site is now mostly an archive. New projects will be at [https://tildegit.org/MarkEEaton](https://tildegit.org/MarkEEaton). If you like, here is a [blog post](https://kingsboroughlibtech.commons.gc.cuny.edu/2025/08/12/further-into-tildegit/) about why I'm moving toward tildegit.
+### This site is now mostly an archive. New projects will be at [https://tildegit.org/MarkEEaton](https://tildegit.org/MarkEEaton). If you like, here is a [blog post](https://kingsboroughlibtech.commons.gc.cuny.edu/2025/08/12/further-into-tildegit/) about why I'm moving toward tildegit and gitea.
 
 Hi, I'm Mark. I'm a librarian. I build tools to support libraries and their communities. I'm passionate about code education for everyone, self-directed learning, and the value of tinkering with our technologies. 
 
